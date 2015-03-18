@@ -1,0 +1,14 @@
+plan van aanpak hunt the wumpus
+
+Lars 
+Guido
+Julius
+
+
+Stappenplan:
+1) opzet layout van het spel. Eerst gaan we de interface opbouwen met 20 kamers.
+2) toevoegen personage. Loop functie geven
+3) eigenschappen meegeven aan de kamers zoals goud, vleermuizen, pits, pijlen en the wumpus
+4) tekst laten zien wat in de buurt is (you can smell the wumpus, you can sense a glimmering etc.)
+5) pijlen laten afvuren, goud laten pakken, vleermuis functie, wumpus doden of gedood worden
+6) ...
